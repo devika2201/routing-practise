@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.contact-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.contact-heading {
+  font-size: 30px;
+}

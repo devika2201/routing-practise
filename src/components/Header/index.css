@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+.nav-bar {
+  background-color: #ffffff;
+  height: 20%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-container {
+  display: flex;
+  margin: 20px;
+}
+
+.image {
+  height: 45px;
+  width: 45px;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 5px;
+}
+
+.list {
+  display: flex;
+  list-style-type: none;
+  margin-right: 20px;
+}
+
+.element {
+  margin: 10px;
+}
